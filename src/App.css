@@ -1,0 +1,31 @@
+.app {
+  padding: 20px !important;
+}
+label {
+  margin-top: 10px;
+}
+.form-check .form-check-input {
+  margin-top: 15px;
+}
+.form-check .form-check-input {
+  margin-right: 5px;
+}
+.form-check-inline {
+  display: block !important;
+}
+small {
+  color: red;
+}
+.card {
+  background: repeating-linear-gradient(
+      120deg,
+      transparent,
+      transparent 220px,
+      #ccc 218px,
+      #ccc 86px
+    ),
+    linear-gradient(to bottom, #eee, rgb(173, 172, 172));
+  border-radius: 20px !important;
+  outline: none !important;
+  border: none !important;
+}
